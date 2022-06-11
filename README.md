@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maiawes
-- 👀 I’m interested in work with homeoffice
+- 👀 I’m interested in work with python dev by homeoffice
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on tecnology changes
 - 📫 How to reach me by whatsapp +5544998851771
